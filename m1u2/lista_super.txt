@@ -1,3 +1,4 @@
 pan
-fruta
-galletitas        
+caramelos 
+frutas
+chupi
